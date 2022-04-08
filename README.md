@@ -1,5 +1,5 @@
 ### Hello, Umesh Langade this side 👋
-- 🔭 I’m currently working on **Process Automation** with the help of **VBA | RPA**
+- 🔭 I’m currently working on **Process Automation** with the help of **VBA | RPA | Python | SQL**
 - 🌱 I’m currently learning **Power Platforms**
 - 👯 I’m looking to collaborate on Project Management
 - 🤔 I’m looking for help with **PowerApps | Power Automate**
