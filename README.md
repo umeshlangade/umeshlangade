@@ -1,6 +1,6 @@
 ### Hello, Umesh Langade this side 👋
 
-Umesh wear different hats while working in agile SCRUM (Business Analyst, Data Analyst, BI Developer, Automation Developer) to passionately solve business problem's and ensure end user satisfaction.
+Umesh wear different hats while working in agile SCRUM (By role he is Team Lead but act as Business Analyst, Data Analyst, BI Developer, Automation Developer as per team need) to passionately solve business problem's and ensure end user satisfaction.
 
 Umesh' experience span across industries such as retail, life science, healthcare, finance, risk, banking, human resource, manufacturing and marketing.
 
